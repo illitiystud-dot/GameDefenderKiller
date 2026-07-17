@@ -38,6 +38,7 @@
    ```bash
    git clone https://github.com/YourName/GameDefenderKiller.git
 3. Откройте GameDefenderKiller.sln
+
 4. Выберите конфигурацию Release и нажмите Build Solution
 
 📜 Лицензия
@@ -45,22 +46,31 @@
 
 Вы можете:
 ✅ Свободно скачивать и использовать программу в личных целях
+
 ✅ Делиться ссылкой на оригинальную страницу загрузки
 
 Запрещается:
 ❌ Использовать в коммерческих целях
+
 ❌ Изменять, модифицировать или создавать производные работы
+
 ❌ Распространять программу без указания автора
 
 Подробнее: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 👤 Автор
 Pavel_Daily
+
 YouTube https://www.youtube.com/@pavel_daily2
+
 VK https://vk.com/pavel_daily2
+
 Дзен https://dzen.ru/pavel_daily2
+
 Telegram https://t.me/pavel_daily2
+
 TikTok https://www.tiktok.com/@pavel_daily1
+
 Boosty (закрытый канал) https://boosty.to/kpavels1997/purchase/4003188
 
 ⚠️ Важное предупреждение
