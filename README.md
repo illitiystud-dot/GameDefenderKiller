@@ -17,13 +17,13 @@
 - Платформа: .NET Framework 4.7.2 или выше
 
 📥 Скачать
-Готовые версии доступны в разделе [Releases](https://github.com/YourName/GameDefenderKiller/releases).
+Готовые версии доступны в разделе [Releases](https://github.com/illitiystud-dot/GameDefenderKiller/releases).
 Доступны два варианта:
 - Портативная версия — один `.exe` файл, не требует установки
 - Установщик — `.exe` с инсталлятором (создаёт ярлыки и запись в реестре)
 
 🚀 Быстрый старт
-1. Скачайте последнюю версию из [Releases](https://github.com/YourName/GameDefenderKiller/releases)
+1. Скачайте последнюю версию из [Releases](https://github.com/illitiystud-dot/GameDefenderKiller/releases)
 2. Запустите файл от имени Администратора (ПКМ → Запуск от имени администратора)
 3. Нажмите «Отключить защиту» для установки игр
 4. После завершения нажмите «Включить защиту»
