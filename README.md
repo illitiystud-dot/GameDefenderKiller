@@ -36,7 +36,7 @@
 1. Установите [Visual Studio 2022](https://visualstudio.microsoft.com/) с компонентом `.NET desktop development`
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/YourName/GameDefenderKiller.git
+   git clone https://github.com/illitiystud-dot/GameDefenderKiller.git
 3. Откройте GameDefenderKiller.sln
 
 4. Выберите конфигурацию Release и нажмите Build Solution
